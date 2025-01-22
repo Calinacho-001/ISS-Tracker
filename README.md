@@ -1,8 +1,8 @@
-# ISS Tracker and Notifier
+# ISS Tracker 🚀
 
 ## Description
 
-The ISS Tracker and Notifier is a Python application that tracks the location of the International Space Station (ISS) and notifies you via email when it is overhead and it's dark outside at your location. This project uses APIs to fetch ISS location and sunrise/sunset times, making it an exciting way to explore Python's integration with web APIs.
+The ISS Tracker🚀 is a Python application that tracks the location of the International Space Station (ISS) and notifies you via email when it is overhead and it's dark outside at your location. This project uses APIs to fetch ISS location and sunrise/sunset times, making it an exciting way to explore Python's integration with web APIs.
 
 ## Features
 
